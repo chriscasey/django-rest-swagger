@@ -1,1 +1,0 @@
-docker build -t django-rest-swagger-example .
